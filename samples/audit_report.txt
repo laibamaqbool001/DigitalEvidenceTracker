@@ -1,0 +1,27 @@
+========================================================================
+           SYSTEM AUDIT TRAIL REPORT
+========================================================================
+  Generated On   : ####-##-## ##:##:##
+  Total Events   : ###
+  Classification : CONFIDENTIAL — FOR OFFICIAL USE ONLY
+========================================================================
+
+  ACTION SUMMARY:
+    LOGIN: ###
+    LOGOUT: ###
+    REGISTER: ###
+    add_evidence: ###
+    search_by_case: ###
+    search_by_id: ###
+    search_keyword: ###
+    view_custody_logs: ###
+
+------------------------------------------------------------------------
+  FULL EVENT LOG (newest first):
+------------------------------------------------------------------------
+  [1] ####-##-## ##:##:##  |  (Name) (Admin)  |  view_custody_logs  →  SUCCESS
+  [2] ####-##-## ##:##:##  |  (Name) (Admin)  |  search_by_case  →  SUCCESS
+  [3] ####-##-## ##:##:##  |  (Name) (Admin)  |  add_evidence  →  SUCCESS
+========================================================================
+              END OF AUDIT REPORT
+========================================================================
