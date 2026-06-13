@@ -1,0 +1,5 @@
+QWidget { background-color: #F9FAFB; color: #1F2937; font-family: "Segoe UI"; }
+QLineEdit { background-color: #FFFFFF; border: 1px solid #D1D5DB; border-radius: 6px; padding: 6px; color: #111827; }
+QLineEdit:focus { border: 1px solid #2563EB; }
+QPushButton { border-radius: 6px; padding: 8px 12px; font-weight: bold; }
+QTextEdit { background-color: #F3F4F6; color: #111827; border: 1px solid #D1D5DB; padding: 8px; font-family: "Courier New"; }
