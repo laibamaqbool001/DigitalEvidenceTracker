@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/resources">
+    <file>appicon.png</file>
+    <file>darkstyle.qss</file>
+    <file>lightstyle.qss</file>
+  </qresource>
+</RCC>
